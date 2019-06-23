@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/sombrero/user/UserControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="67" column="49" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="49" />
+            <state relative-caret-position="393">
+              <caret line="49" column="43" lean-forward="true" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -292,26 +292,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561289224137</updated>
-      <workItem from="1561289225343" duration="5102000" />
+      <workItem from="1561289225343" duration="5417000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserControllerTest_hello - 2019.06.23 at 20h 40m 08s.xml">
-      <configuration name="UserControllerTest.hello" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_createUser_JSON - 2019.06.23 at 21h 25m 20s.xml">
-      <configuration name="UserControllerTest.createUser_JSON" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_createUser_JSON - 2019.06.23 at 21h 26m 59s.xml">
-      <configuration name="UserControllerTest.createUser_JSON" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_createUser_XML - 2019.06.23 at 21h 38m 20s.xml">
-      <configuration name="UserControllerTest.createUser_XML" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserControllerTest_createUser_XML - 2019.06.23 at 21h 41m 45s.xml">
-      <configuration name="UserControllerTest.createUser_XML" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UserControllerTest_createUser_XML - 2019.06.23 at 21h 43m 20s.xml">
       <configuration name="UserControllerTest.createUser_XML" configurationId="JUnit" />
     </history-entry>
@@ -327,13 +312,27 @@
     <history-entry file="UserControllerTest_createUser_XML - 2019.06.23 at 21h 49m 06s.xml">
       <configuration name="UserControllerTest.createUser_XML" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UserControllerTest_createUser_XML - 2019.06.23 at 21h 57m 16s.xml">
+      <configuration name="UserControllerTest.createUser_XML" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_createUser_XML - 2019.06.23 at 21h 57m 42s.xml">
+      <configuration name="UserControllerTest.createUser_XML" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest_createUser_JSON - 2019.06.23 at 21h 57m 56s.xml">
+      <configuration name="UserControllerTest.createUser_JSON" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest - 2019.06.23 at 21h 58m 04s.xml">
+      <configuration name="UserControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest - 2019.06.23 at 21h 58m 10s.xml">
+      <configuration name="UserControllerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5102000" />
+    <option name="totallyTimeSpent" value="5417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="23" width="1373" height="967" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -353,7 +352,7 @@
       <window_info anchor="bottom" id="Version Control" weight="0.32914287" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32914287" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4662857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -496,8 +495,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/sombrero/user/UserControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="67" column="49" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="49" />
+        <state relative-caret-position="393">
+          <caret line="49" column="43" lean-forward="true" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
