@@ -32,4 +32,28 @@ public class UserController {
         return user;
     }
 
+    /**
+     *
+     * 정적 리소스 맵핑 “/**”
+     *
+     * ● 기본 리소스 위치
+     * ○ classpath:/static
+     * ○ classpath:/public
+     * ○ classpath:/resources/
+     * ○ classpath:/META-INF/resources
+     *
+     * ○ 예) “/hello.html” => /static/hello.html
+     *
+     * ○ spring.mvc.static-path-pattern: 맵핑 설정 변경 가능
+     * ○ spring.mvc.static-locations: 리소스 찾을 위치 변경 가능
+     * ● Last-Modified 헤더를 보고 304 응답을 보냄.
+     * ● ResourceHttpRequestHandler가 처리함.
+     * ○ WebMvcConfigurer의 addRersourceHandlers로 커스터마이징 할 수 있음
+     *
+     *
+     * 정적 리소스 지원 (동적으로 생성한 리소스가 아닌 것.)
+     * 브라우저, 클라이언트에서 요청이 왔을 때 만들어져 있는 리소스를 보내주는 것.
+     * 요청이 왔을 때 서버에서 작업을 처리해서 뷰를 만드는 것이 아니라 이미 만들어진 리소스를 제공.
+     */
+
 }
